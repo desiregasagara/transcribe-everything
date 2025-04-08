@@ -34,5 +34,4 @@ Along the way, I encountered limitations, workarounds, and even a surprise reply
   - [AWS Transcribe](https://aws.amazon.com/transcribe/)
 - Optional: Google Cloud account
 
-## 🚀 Getting Started
 
