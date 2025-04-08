@@ -20,8 +20,8 @@ Along the way, I encountered limitations, workarounds, and even a surprise reply
 
 ## 🛠️ Included
 
-- `whisper_transcribe.py`: Script to transcribe audio using OpenAI's Whisper API
-- `split_audio.py`: Python script using `pydub` to split large MP3 files into smaller chunks
+- `open-ai-transcribe-audio.py`: Script to transcribe audio using OpenAI's Whisper API
+- `split-audio.py`: Python script using `pydub` to split large MP3 files into smaller chunks
 - `aws_transcribe_setup.md`: Step-by-step notes for configuring AWS Transcribe with Kinyarwanda support
 - `transcriptions/`: Example output files
 - `README.md`: This file
